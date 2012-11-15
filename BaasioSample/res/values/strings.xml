@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="app_name">baas.io</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="menu_settings">Settings</string>
+    
+    <string name="menu_folder_create">Create Folder</string>
+    <string name="menu_file_create">Create File</string>
+    
+    <string name="menu_file_update">Modify File Content</string>
+    <string name="menu_file_delete">Delete File</string>
+    
+    <string name="menu_push_send">Send Push</string>
+    <string name="menu_push_send_by_tag">Send Push By Tags</string>
+    <string name="menu_push_send_by_device">Send Push By Device</string>
+    
+    <string name="menu_entity_create">Create</string>
+    <string name="menu_entity_update">Modify</string>
+    <string name="menu_entity_delete">Delete</string>
+    
+    <string name="title_activity_baas_sample">baas.io Sample</string>
+    
+    <string name="title_activity_facebook_sample">Facebook</string>
+    
+    <string name="auth_title">Auth</string>
+    <string name="user_title">User</string>
+    <string name="entity_title">Entity</string>
+    <string name="push_title">Push</string>
+    <string name="file_title">File</string>
+
+    <string name="request">Request!</string>
+    <string name="upload">Upload Photo</string><string name="post">Wall Post!</string>
+    <string name="delete">Delete Post</string>
+    
+    <string name="label_location">current ></string>
+    <string name="label_size">size</string>
+    <string name="label_directory">dir</string>
+    
+    <string name="pull_to_refresh_pull_label">Pull down to refresh…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh…</string>
+    
+    <string name="share_dialog_title">공유하기</string>
+    <string name="share_dialog_body_hint">공유할 내용을 입력하세요.</string>
+    <string name="share_dialog_post">공유</string>
+    
+    <string name="common_dialog_confirm">확인</string>
+    <string name="common_dialog_cancel">취소</string>
+    
+    <string name="share_dialog_title_twitter">트위터로 공유</string>
+    <string name="share_dialog_title_facebook">페이스북으로 공유</string>
+    
+    <string name="create_entity_dialog_title">Entity 생성</string>
+    <string name="update_entity_dialog_title">Entity 수정</string>
+    <string name="sendpush_dialog_title">Push 보내기</string>
+    <string name="sendpush_by_tag_dialog_title">Tag로 Push 보내기</string>
+    <string name="create_folder_dialog_title">Folder 생성</string>
+    
+    <string name="folder_dialog_body_hint">Folder 이름을 입력하세요.</string>
+    <string name="entity_dialog_body_hint">이름을 입력하세요.</string>
+    <string name="sendpush_dialog_body_hint">메시지를 입력하세요.</string>
+    <string name="sendpush_dialog_body_hint2">태그를 입력하세요.(콤마로구분)</string>
+</resources>

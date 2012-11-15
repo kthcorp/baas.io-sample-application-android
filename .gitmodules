@@ -1,0 +1,6 @@
+[submodule "baas.io-SDK-Android"]
+	path = baas.io-SDK-Android
+	url = https://github.com/kthcorp/baas.io-SDK-Android
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = https://github.com/kthcorp/ActionBarSherlock.git
