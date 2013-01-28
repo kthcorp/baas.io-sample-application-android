@@ -1,8 +1,7 @@
-
 package com.kth.baasio.baassample.ui.dialog;
 
-import com.actionbarsherlock.R;
 import com.actionbarsherlock.app.SherlockDialogFragment;
+import com.kth.baasio.baassample.R;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
